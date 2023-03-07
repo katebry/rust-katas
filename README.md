@@ -8,6 +8,7 @@ Some basic coding challenges answered in Rust
 - multiply
 - string_repeat
 - hello_world
+- square_sum
 
 **7kyu:**
 - vowel_count
