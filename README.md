@@ -9,3 +9,4 @@ Some basic coding challenges answered in Rust
 **7kyu:**
 - vowel_count
 - disemvowel_trolls
+- digit_times_digit
