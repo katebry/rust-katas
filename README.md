@@ -6,6 +6,7 @@ Some basic coding challenges answered in Rust
 - counting_sheep
 - even_or_odd
 - multiply
+- string_repeat
 
 **7kyu:**
 - vowel_count
