@@ -7,6 +7,7 @@ Some basic coding challenges answered in Rust
 - even_or_odd
 - multiply
 - string_repeat
+- hello_world
 
 **7kyu:**
 - vowel_count
