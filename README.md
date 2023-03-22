@@ -9,6 +9,7 @@ Some basic coding challenges answered in Rust
 - string_repeat
 - hello_world
 - square_sum
+- simple_multiplication
 
 **7kyu:**
 - vowel_count
