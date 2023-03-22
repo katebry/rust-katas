@@ -1,6 +1,6 @@
 # Rust Katas
 
-Some basic coding challenges answered in Rust
+Coding challenges taken from CodeWars and answered in Rust
 
 **8kyu:**
 - counting_sheep
@@ -15,3 +15,4 @@ Some basic coding challenges answered in Rust
 - vowel_count
 - disemvowel_trolls
 - digit_times_digit
+- valid_parentheses
