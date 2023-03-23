@@ -16,3 +16,4 @@ Coding challenges taken from CodeWars and answered in Rust
 - disemvowel_trolls
 - digit_times_digit
 - valid_parentheses
+- divide_and_conquer
